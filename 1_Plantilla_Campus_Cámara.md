@@ -10,7 +10,7 @@ Tiene impacto frente a clientes concienciados con la sostenibilidad.
 Responde a regulaciones ambientales cada vez más estrictas.
 
 
-#2. Accesibilidad universal 
+# 2. Accesibilidad universal 
 
 La accesibilidad universal es diseñar aplicaciones que puedan ser utilizadas por el mayor número posible de usuarios, independientemente de sus capacidades
 
