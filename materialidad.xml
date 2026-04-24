@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa_sostenible nombre="Accenture">
+    <stakeholders>
+        <stakeholder id="1">
+            <nombre>Clientes</nombre>
+            <descripcion>Exigen que se cumplan los plazos, seguridad y eficiencia.</descripcion>
+        </stakeholder>
+        
+        <stakeholder id="2">
+            <nombre>Usuarios</nombre>
+            <descripcion>Usan las aplicaciones que se han echo anteriormente y necesitan accesibilidad, usabilidad y protección de sus datos.</descripcion>
+        </stakeholder>
+        
+        <stakeholder id="3">
+            <nombre>Equipo de desarrollo</nombre>
+            <descripcion>Basicamente son los que diseñan y mantienen las soluciones a los erroes que surjan.</descripcion>
+        </stakeholder>
+    </stakeholders>
+    
+    <temas_materiales>
+        <tema_material id="4" asg="Ambiental">
+            <nombre>Eficiencia energética</nombre>
+            <descripcion>Reduce el consumo de recursos en servidores para las paginas webs y aplicaciones, dispositivos y centros de datos.</descripcion>
+        </tema_material>
+        
+        <tema_material id="5" asg="Social">
+            <nombre>Accesibilidad universal</nombre>
+            <descripcion>Permite que cualquier persona pueda usar aplicaciones y sitios web desde cualquier dispositivo</descripcion>
+        </tema_material>
+        
+        <tema_material id="6" asg="Gobernanza">
+            <nombre>Privacidad y ética de los datos</nombre>
+            <descripcion>Garantiza un uso responsable y seguro de la información de usuarios y clientes.</descripcion>
+        </tema_material>
+    </temas_materiales>
+</empresa_sostenible>
